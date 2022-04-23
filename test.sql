@@ -10,4 +10,4 @@ Insert into persons
 values
 (
   '101','nagendra'
-);
+)
